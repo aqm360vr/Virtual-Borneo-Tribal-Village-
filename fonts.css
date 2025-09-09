@@ -1,0 +1,42 @@
+@font-face {
+   font-family: "Montserrat";
+   src: url("fonts/Montserrat Bold.woff") format("woff"), url("fonts/Montserrat Bold.eot") format("embedded-opentype"), url("fonts/Montserrat Bold.otf") format("opentype");
+   font-weight: bold;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Montserrat";
+   src: url("fonts/Montserrat.woff") format("woff"), url("fonts/Montserrat.eot") format("embedded-opentype"), url("fonts/Montserrat.otf") format("opentype");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Montserrat Black";
+   src: url("fonts/Montserrat Black.woff") format("woff"), url("fonts/Montserrat Black.eot") format("embedded-opentype"), url("fonts/Montserrat Black.otf") format("opentype");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Adobe Garamond Pro Bold";
+   src: url("fonts/AGaramondPro-Bold.woff") format("woff"), url("fonts/AGaramondPro-Bold.eot") format("embedded-opentype"), url("fonts/AGaramondPro-Bold.otf") format("opentype");
+   font-weight: bold;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Adobe Garamond Pro Bold";
+   src: url("fonts/AGaramondPro-BoldItalic.woff") format("woff"), url("fonts/AGaramondPro-BoldItalic.eot") format("embedded-opentype"), url("fonts/AGaramondPro-BoldItalic.otf") format("opentype");
+   font-weight: bold;
+   font-style: italic;
+}
+@font-face {
+   font-family: "Berlin Sans FB";
+   src: url("fonts/Berlin Sans FB Bold.woff") format("woff"), url("fonts/Berlin Sans FB Bold.eot") format("embedded-opentype"), url("fonts/Berlin Sans FB Bold.TTF") format("truetype"), url("fonts/Berlin Sans FB Bold.svg") format("svg");
+   font-weight: bold;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Berlin Sans FB";
+   src: url("fonts/Berlin Sans FB.woff") format("woff"), url("fonts/Berlin Sans FB.eot") format("embedded-opentype"), url("fonts/Berlin Sans FB.TTF") format("truetype"), url("fonts/Berlin Sans FB.svg") format("svg");
+   font-weight: normal;
+   font-style: normal;
+}
